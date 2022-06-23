@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+My name is Duy Khuong<br/>
+I'am a student at Nguyen Tat Thanh University
 
 <!--
 **duykhuong-99/duykhuong-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
