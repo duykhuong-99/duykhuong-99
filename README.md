@@ -1,5 +1,5 @@
 ### Hi 👋
-My name is Duy Khuong<br/>
+My name is Nguyen Duy Khuong<br/>
 I'am a student at Nguyen Tat Thanh University
 
 <!--
